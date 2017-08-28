@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/florenthobein/grunt-livingcss.svg?branch=master)](https://travis-ci.org/florenthobein/grunt-livingcss)
+
 # grunt-livingcss
 
 > Grunt wrapper for the LivingCSS Style Guide Generator.
